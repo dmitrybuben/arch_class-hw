@@ -1,4 +1,4 @@
-package org.example.modelelements;
+package Architecture.modelelements;
 
 public class Angle3D {
     private Vector3D vector1;
@@ -16,6 +16,7 @@ public class Angle3D {
     public double getAngle() {
         return angle;
     }
+
     // для инициализации угла задаем 2 вектора
 
     public Angle3D(Vector3D vector1, Vector3D vector2) {

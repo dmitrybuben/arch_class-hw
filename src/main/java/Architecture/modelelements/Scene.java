@@ -1,4 +1,4 @@
-package org.example.modelelements;
+package Architecture.modelelements;
 
 import java.util.Collection;
 
@@ -11,5 +11,8 @@ public class Scene {
     {
         id = ++counter;
     }
-    //TODO доработать
+    private void GetScena (PoligonalModel models, Flash flashes, Camera cameras){
+    }
+    private void GetScena (PoligonalModel models, Flash flashes){
+    }
 }

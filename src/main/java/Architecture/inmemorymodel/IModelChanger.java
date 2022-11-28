@@ -1,4 +1,4 @@
-package org.example.inmemorymodel;
+package Architecture.inmemorymodel;
 
 public interface IModelChanger {
     void RegisterIModelChanger(IModelChangedObserver o);

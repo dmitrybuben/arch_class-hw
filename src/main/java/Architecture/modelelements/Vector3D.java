@@ -1,4 +1,4 @@
-package org.example.modelelements;
+package Architecture.modelelements;
 
 /*
 для работы с Angle3D (углами) нужно понятие вектора - определение величины (точки) и направления

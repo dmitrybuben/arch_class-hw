@@ -1,4 +1,4 @@
-package org.example.modelelements;
+package Architecture.modelelements;
 
 public class Point3D {
 

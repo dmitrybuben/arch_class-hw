@@ -1,4 +1,4 @@
-package org.example.modelelements;
+package Architecture.modelelements;
 
 // Полигон состоит из коллекции точек и геттеры и сеттеры для задания коллекции
 
